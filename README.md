@@ -15,7 +15,7 @@ Video Compres StableDif - это программа для сжатия виде
 
 ## Установка
 
-1. Скачайте последнюю версию программы с [релиза](https://github.com/orex2121/Video-Compres-StableDif/releases).
+1. Скачайте последнюю версию программы с [releases](https://github.com/orex2121/Video-Compres-StableDif/releases).
 2. Программа полностью portable - ffmpeg устанавливать не нужно.
 3. Просто запустите программу.
 
