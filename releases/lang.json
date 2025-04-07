@@ -1,0 +1,36 @@
+{
+  "en": {
+    "title": "Video Compress - StableDif",
+    "path_placeholder": "Path to file...",
+    "file_label": "File path:",
+    "load_file": "Load file",
+    "resolution": "Video resolution:",
+    "crf_label": "Video quality (high < 24 > low):",
+    "convert_button": "COMPRESS VIDEO",
+    "console_placeholder": "Console output will be here...",
+    "console_intro": "Video Compress - StableDif is a video compression tool\n\n- Select a file and CRF value (default-24).\n- To change resolution, select it.\n- Input any video format, output will be mp4.\n\nOreX & stabledif.ru",
+    "error_title": "Error",
+    "error_file": "First, load a file or provide a valid path.",
+    "error_crf": "CRF must be a number.",
+    "error_ffmpeg": "ffmpeg.exe not found in program folder.",
+    "done_title": "Done",
+    "done_message": "Video compressed and saved as:"
+  },
+  "ru": {
+    "title": "Video Compress - StableDif",
+    "path_placeholder": "Путь к файлу...",
+    "file_label": "Путь к файлу:",
+    "load_file": "Загрузить файл",
+    "resolution": "Разрешение видео:",
+    "crf_label": "Качество видео (high < 24 > low):",
+    "convert_button": "СЖАТЬ ВИДЕО",
+    "console_placeholder": "Консольный вывод будет здесь...",
+    "console_intro": "Video Compress - StableDif - это программа для сжатия видео\n\n- Выберите файл и степень сжатия (default-24).\n- Для изменения разрешения его нужно выбрать.\n- Виберите любой формат видео, на выходе получите mp4.\n\nOreX & stabledif.ru",
+    "error_title": "Ошибка",
+    "error_file": "Сначала загрузите файл или укажите корректный путь.",
+    "error_crf": "CRF должен быть числом.",
+    "error_ffmpeg": "ffmpeg.exe не найден в папке с программой.",
+    "done_title": "Готово",
+    "done_message": "Видео сконвертировано и сохранено как:"
+  }
+}
