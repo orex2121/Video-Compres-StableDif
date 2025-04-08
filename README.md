@@ -42,7 +42,6 @@ Video Compres StableDif - это программа для сжатия виде
 
 ## Контакты
 
-Мои контакты: OreX & stabledif.ru
-Наши ресурсы:
+OreX & stabledif.ru
 - [telegram канал](https://t.me/stabledif_lesson/337)
 - [stabledif.ru](https://stabledif.ru/)
