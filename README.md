@@ -1,4 +1,6 @@
-# Video-Compres-StableDif
+<p align="center">
+  <h1>Video-Compres-StableDif</h1>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/orex2121/Video-Compres-StableDif/main/img/Video%20Compres%20StableDif4.jpg" alt="Video Compres StableDif" />
