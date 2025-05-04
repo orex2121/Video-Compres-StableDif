@@ -1,8 +1,8 @@
 # Video-Compres-StableDif
 
-<div style="text-align: center;">
-  <img src="https://github.com/orex2121/Video-Compres-StableDif/blob/main/img/Video%20Compres%20StableDif4.jpg" alt="Video Compres StableDif" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/orex2121/Video-Compres-StableDif/main/img/Video%20Compres%20StableDif4.jpg" alt="Video Compres StableDif" />
+</p>
 
 Video Compres StableDif - это программа для сжатия видео с использованием ffmpeg. Она позволяет сжимать видео до 10 раз, сохраняя при этом комфортное для просмотра качество.
 
